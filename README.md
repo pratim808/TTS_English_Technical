@@ -1,3 +1,4 @@
+
 # TTS_English_Technical
 Finetune speechT5 model on Technical Vocabulary
 
@@ -61,7 +62,7 @@ text = "The developer utilized the CUDA API to accelerate the training of the TT
 
 ## Their correct pronunciation output from the fine-tuned model
 
-[![Listen on Google Drive](https://img.shields.io/badge/Listen%20on-Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)]([https://drive.google.com/file/d/1jqP55eUrAHnr773Y_bsx_s9CoBtgKKbu/view?usp=sharing](https://drive.google.com/file/d/1bqyIJOWXW5ZHbwJa30PF36LqXzqixAc9/view?usp=sharing))
+[![Listen on Google Drive](https://img.shields.io/badge/Listen%20on-Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1bqyIJOWXW5ZHbwJa30PF36LqXzqixAc9/view?usp=sharing)
 
 ## 🔗 Links
 
@@ -70,3 +71,5 @@ You can find the colab notebbok and the github repository from the bellow Links.
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sW2JY3AOXO6AtKFozZodJi5qDVeWjEuN?usp=sharing)
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pratim808/TTS_English_Technical)
+
+
