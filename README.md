@@ -53,6 +53,16 @@ The dataset used is "Yassmen/TTS_English_Technical_data" available on the Huggin
 5. **(Optional) Save a copy:** Save a copy of the notebook to your Google Drive to preserve any changes you make.
 
 This README provides a general overview of the code and steps involved. For more detailed information, please refer to the comments and documentation within the Colab notebook itself.
+
+## The Technical Terms List  
+
+text = "The developer utilized the CUDA API to accelerate the training of the TTS model while the REST API with OAuth 2.0 was employed for secure access and authentication."
+
+
+## Their correct pronunciation output from the fine-tuned model
+
+[![Listen on Google Drive](https://img.shields.io/badge/Listen%20on-Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)]([https://drive.google.com/file/d/1jqP55eUrAHnr773Y_bsx_s9CoBtgKKbu/view?usp=sharing](https://drive.google.com/file/d/1bqyIJOWXW5ZHbwJa30PF36LqXzqixAc9/view?usp=sharing))
+
 ## 🔗 Links
 
 You can find the colab notebbok and the github repository from the bellow Links.
