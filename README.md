@@ -39,7 +39,9 @@ The dataset used is "Yassmen/TTS_English_Technical_data" available on the Huggin
 7. **Fine-tune the model:**
     - Create a `Seq2SeqTrainer` with the specified arguments and model.
     - Train the model using `trainer.train()`. 
-    - Push the trained model to the Hugging Face Hub using `trainer.push_to_hub()`. 
+    - Push the trained model to the Hugging Face Hub using `trainer.push_to_hub()`.
+![Training and Validation Loss](/images/loss_plot.png)
+
 
 ## Running the code
 
